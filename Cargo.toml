@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    # add more members as needed
+    "actix-actor-model"
+]
